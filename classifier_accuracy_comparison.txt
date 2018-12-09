@@ -1,0 +1,6 @@
+model_name
+LinearSVC                 0.874273
+LogisticRegression        0.884779
+MultinomialNB             0.852905
+RandomForestClassifier    0.407241
+Name: accuracy, dtype: float64
